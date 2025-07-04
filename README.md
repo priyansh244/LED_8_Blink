@@ -19,5 +19,6 @@ This is a basic Arduino project to blink 8 LEDs using digital pins 2 to 9.
 - Debugging real circuits
 
 ## 📸 Preview:
+![My LED Circuit](LED_8_Blink.jpg)
 
 
