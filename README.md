@@ -17,10 +17,7 @@ Pretty fun and full of learning moments! 😄
 
 ---
 
-## ⚡ Circuit Connection Diagram:
 
-Here’s how I wired it all up on the breadboard ⬇️  
-![My Circuit Setup](LED_8_Blink.jpg)
 
 > Each LED is connected to digital pins 2 to 9 through a resistor, with the cathode going to GND.
 
@@ -38,8 +35,10 @@ Here’s how I wired it all up on the breadboard ⬇️
 
 ---
 
-🖼️ Preview:
-![My LED Circuit](LED_8_Blink.jpg)
+## ⚡ Circuit Connection Diagram:
+
+Here’s how I wired it all up on the breadboard ⬇️  
+![My Circuit Setup](LED_8_Blink.jpg)
 
 ---
 
